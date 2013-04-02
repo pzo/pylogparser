@@ -1,5 +1,8 @@
 *.py[cod]
+<<<<<<< HEAD
 *.py~
+=======
+>>>>>>> 8ddae86f12ec51f26eb4e713a01116f5d027b326
 
 # C extensions
 *.so
@@ -11,7 +14,10 @@ dist
 build
 eggs
 parts
+<<<<<<< HEAD
 bin
+=======
+>>>>>>> 8ddae86f12ec51f26eb4e713a01116f5d027b326
 var
 sdist
 develop-eggs
